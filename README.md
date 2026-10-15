@@ -10,7 +10,7 @@
 >
 > The original material is licensed under CC BY 4.0. Please refer to the [original repository](https://github.com/89171/web3-101) for the original version.
 
-## Web3 Handbook
+## Introduction
 
 No jargon overload, no hype, no trading calls. This handbook explains what Web3 is in plain language, using comparisons to concepts you already know.
 
@@ -22,8 +22,6 @@ What This Handbook Does Not Do:
 - It does not judge investment, compliance, or tax risk for you.
 - It does not claim that Web3 will change everything.
 - It does not assume you can code.
-
-## Reading Path
 
 If you only have 30 minutes, read **Part 1**.  
 If you want to hold a basic conversation, read **Parts 1-3**.  
